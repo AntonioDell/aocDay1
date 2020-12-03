@@ -1,0 +1,8 @@
+{
+  "name": "aof-day-1",
+  "version": "1.0.0",
+  "description": "Entry for advent of code 2020, day 1",
+  "main": "index.js",
+  "repository": "https://github.com/AntonioDell/aofDay1.git",
+  "author": "Antonio Dell'Annunziata <Antonio.Dell@gmx.de>"
+}
